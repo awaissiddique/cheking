@@ -1,0 +1,22 @@
+.main{
+
+    border: 2px solid black;
+    width: 500px;
+    height: 500px;
+    background-color: green;
+    position: relative;
+    left: 500px;
+    top: 150px;
+    border-radius: 20px;
+}
+.detail{
+
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: rgb(255, 0, 0);
+    position: absolute;
+    left: 400px;
+    
+}
